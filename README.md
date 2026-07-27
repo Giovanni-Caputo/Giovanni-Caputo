@@ -97,7 +97,7 @@ Em breve disponível.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Giovanni-Caputo&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
