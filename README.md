@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Giovanni Caputo
+# Olá, eu sou Giovanni Caputo
 
 ### 💻 Desenvolvedor Backend em Formação
 
