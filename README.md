@@ -96,11 +96,11 @@ src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=github-dark-blue&hi
 
 ## 📫 Contato
 
-<a href="SEU_LINKEDIN">
+<a href="[SEU_LINKEDIN](https://www.linkedin.com/in/caputo11/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:givcaputo@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
