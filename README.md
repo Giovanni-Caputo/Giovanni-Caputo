@@ -6,7 +6,7 @@
 
 🎓 Ciência da Computação • UNESP
 
-📍 São Paulo • Brasil
+📍 São José do Rio Preto • Brasil
 
 *"Transformando conhecimento em projetos reais."*
 
