@@ -36,8 +36,9 @@ Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como en
 ### 💻 Desenvolvendo
 
 - 🎮 Tower Ascension
-- 📚 Developer Handbook
-- 🔧 Sistema para Oficina
+- 🎮 Python Game
+- 🌐 Blog Caputz
+- 🔧 OpsDesk
 
 ### 🎯 Objetivos
 
@@ -63,6 +64,8 @@ Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como en
 
 RPG desenvolvido em Java utilizando JavaFX para aplicação de Programação Orientada a Objetos.
 
+[Ver repositório →](https://github.com/Giovanni-Caputo/TowerAscension)
+
 ---
 
 ### 📚 Developer Handbook
@@ -71,15 +74,25 @@ Meu repositório pessoal de estudos contendo resumos, exemplos e documentação 
 
 ---
 
-### 🔧 Sistema para Oficina
+### 🔧 OpsDesk
 
-Projeto pessoal focado na gestão de oficinas mecânicas.
+Sistema para gestão de oficinas atualmente em produção.
 
 ---
 
 ### 🐍 Projeto em Python
 
-Em breve disponível.
+Protótipo de jogo survival inspirado em *Vampire Survivors*, desenvolvido com Python e PGZero.
+
+[Ver repositório →](https://github.com/Giovanni-Caputo/Python-Game)
+
+---
+
+### 🌐 Blog Caputz
+
+Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek, música, automobilismo e registrar minha evolução na programação. O código está privado por enquanto.
+
+[Visitar o blog →](https://giovanni-caputo.github.io/Blog-Caputz/)
 
 ---
 
@@ -87,9 +100,9 @@ Em breve disponível.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Giovanni-Caputo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&locale=pt-br"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-Caputo&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"/>
 
 </div>
 
@@ -110,7 +123,13 @@ Em breve disponível.
 - ✅ Java
 - ✅ JavaFX
 - ✅ Python
+- ✅ HTML e CSS
+- ✅ JavaScript
+- ✅ GitHub Pages
+- ✅ Supabase
 - 🔄 Spring Boot
+- 🔄 Desenvolvimento web (Blog Caputz)
+- 🔄 APIs e integração com banco de dados
 - ⏳ Docker
 - ⏳ PostgreSQL
 - ⏳ AWS
