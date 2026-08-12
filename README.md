@@ -1,3 +1,4 @@
+```html
 <div align="center">
 
 # Olá, eu sou Giovanni Caputo
@@ -28,23 +29,30 @@ Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como en
 
 ### 📚 Estudando
 
-- ☕ Java
-- 🌱 Spring Boot
+- ☕ Java e Spring Boot
+- 🟦 TypeScript
+- ⚛️ React e Next.js
+- 🐘 PostgreSQL e Supabase
+- 🔌 APIs e integração com bancos de dados
 - ⚙️ Engenharia de Software
-- 🔀 Git & GitHub
 
 ### 💻 Desenvolvendo
 
+- 📚 Comics Continuum
 - 🎮 Tower Ascension
 - 🎮 Python Game
-- 🌐 Blog Caputz
-- 🔧 OpsDesk
+- 🔧 Plataforma para Oficinas
+
+### ✅ Projetos desenvolvidos
+
+- 🌐 Blog Caputz — desenvolvimento concluído, aguardando publicação
 
 ### 🎯 Objetivos
 
 - ✅ Construir um portfólio sólido
 - 🎯 Conseguir meu primeiro estágio
 - 🚀 Evoluir como Desenvolvedor Backend
+- 🧱 Criar aplicações completas, úteis e bem estruturadas
 
 ---
 
@@ -52,7 +60,7 @@ Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como en
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,git,github,mysql,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,react,nextjs,html,css,postgres,supabase,git,github,mysql,vscode&theme=dark"/>
 
 </p>
 
@@ -60,9 +68,19 @@ Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como en
 
 # 📂 Projetos em Destaque
 
+### 📚 Comics Continuum
+
+Plataforma para descobrir ordens de leitura de quadrinhos e acompanhar o progresso por edição, série, personagem, saga e universo.
+
+O projeto está sendo desenvolvido com **Next.js**, **TypeScript**, **PostgreSQL** e **Supabase**, começando pela saga Ultimate da Marvel e por *Ultimate Spider-Man*.
+
+[Ver repositório →](https://github.com/Giovanni-Caputo/Comics-Continuum)
+
+---
+
 ### 🎮 Tower Ascension
 
-RPG desenvolvido em Java utilizando JavaFX para aplicação de Programação Orientada a Objetos.
+RPG desenvolvido em Java utilizando JavaFX como aplicação prática dos conceitos de Programação Orientada a Objetos.
 
 [Ver repositório →](https://github.com/Giovanni-Caputo/TowerAscension)
 
@@ -70,13 +88,13 @@ RPG desenvolvido em Java utilizando JavaFX para aplicação de Programação Ori
 
 ### 📚 Developer Handbook
 
-Meu repositório pessoal de estudos contendo resumos, exemplos e documentação das tecnologias que utilizo.
+Meu repositório pessoal de estudos, contendo resumos, exemplos e documentações sobre as tecnologias que estou aprendendo e utilizando.
 
 ---
 
-### 🔧 OpsDesk
+### 🔧 Plataforma para Oficinas
 
-Sistema para gestão de oficinas atualmente em produção.
+Projeto de uma plataforma voltada para oficinas, ainda em fase de definição e planejamento. A proposta e o nome definitivo serão estabelecidos conforme o desenvolvimento evoluir.
 
 ---
 
@@ -90,9 +108,9 @@ Protótipo de jogo survival inspirado em *Vampire Survivors*, desenvolvido com P
 
 ### 🌐 Blog Caputz
 
-Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek, música, automobilismo e registrar minha evolução na programação. O código está privado por enquanto.
+Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek, música, automobilismo e registrar minha evolução na programação.
 
-[Visitar o blog →](https://giovanni-caputo.github.io/Blog-Caputz/)
+O desenvolvimento está concluído, mas o blog ainda não foi publicado oficialmente.
 
 ---
 
@@ -100,11 +118,7 @@ Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek,
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Giovanni-Caputo&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
-[Ver atividade no GitHub →](https://github.com/Giovanni-Caputo)
+[Ver meus projetos e minha atividade no GitHub →](https://github.com/Giovanni-Caputo)
 
 </div>
 
@@ -121,13 +135,19 @@ Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek,
 - ✅ JavaScript
 - ✅ GitHub Pages
 - ✅ Supabase
+- ✅ Desenvolvimento do Blog Caputz
 - 🔄 Spring Boot
-- 🔄 Desenvolvimento web (Blog Caputz)
-- 🔄 APIs e integração com banco de dados
+- 🔄 TypeScript
+- 🔄 React e Next.js
+- 🔄 PostgreSQL
+- 🔄 APIs e integração com bancos de dados
+- 🔄 Desenvolvimento do Comics Continuum
+- 🔄 Arquitetura e Engenharia de Software
 - ⏳ Docker
-- ⏳ PostgreSQL
+- ⏳ Testes automatizados
+- ⏳ Deploy e CI/CD
 - ⏳ AWS
-- ⏳ Primeiro Estágio
+- ⏳ Primeiro estágio
 
 ---
 
@@ -154,3 +174,4 @@ Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek,
 > **"Acredito que aprender tecnologia significa construir projetos. Cada novo conhecimento adquirido se transforma em uma aplicação prática publicada neste GitHub."**
 
 </div>
+```
