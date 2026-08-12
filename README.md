@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 # Olá, eu sou Giovanni Caputo
@@ -174,4 +173,3 @@ O desenvolvimento está concluído, mas o blog ainda não foi publicado oficialm
 > **"Acredito que aprender tecnologia significa construir projetos. Cada novo conhecimento adquirido se transforma em uma aplicação prática publicada neste GitHub."**
 
 </div>
-```
