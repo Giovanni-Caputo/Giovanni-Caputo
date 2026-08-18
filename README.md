@@ -2,174 +2,141 @@
 
 # Olá, eu sou Giovanni Caputo
 
-### 💻 Desenvolvedor Backend em Formação
+### 💻 Desenvolvedor de Software | Full Stack em formação
 
-🎓 Ciência da Computação • UNESP
-
+🎓 Ciência da Computação • UNESP  
 📍 São José do Rio Preto • Brasil
 
-*"Transformando conhecimento em projetos reais."*
+Construindo aplicações completas para aprender engenharia de software na prática.
 
 </div>
 
 ---
 
-# 👨🏻‍💻 Sobre mim
+## 👨🏻‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação na **UNESP** e atualmente estou construindo minha carreira como **Desenvolvedor Backend**.
+Sou estudante de **Ciência da Computação na UNESP** e desenvolvedor em formação, com foco em **desenvolvimento de software, backend e aplicações full stack**.
 
-Tenho interesse em Engenharia de Software, desenvolvimento de APIs, arquitetura de sistemas e construção de aplicações completas. Gosto de aprender criando projetos práticos, documentando minha evolução e buscando escrever um código cada vez mais organizado e de fácil manutenção.
+Meu aprendizado é orientado a projetos: gosto de partir de um problema real, modelar a solução e levar o projeto até uma aplicação funcional. Nos meus projetos mais recentes venho trabalhando com **TypeScript, React, Next.js, bancos relacionais, autenticação, testes, segurança e serviços cloud**, além da base que construí com **Java, Python, C e C++** durante a graduação.
 
-Meu objetivo é conquistar meu primeiro estágio e evoluir continuamente como engenheiro de software.
-
----
-
-# 🚀 Atualmente
-
-### 📚 Estudando
-
-- ☕ Java e Spring Boot
-- 🟦 TypeScript
-- ⚛️ React e Next.js
-- 🐘 PostgreSQL e Supabase
-- 🔌 APIs e integração com bancos de dados
-- ⚙️ Engenharia de Software
-
-### 💻 Desenvolvendo
-
-- 📚 Comics Continuum
-- 🎮 Tower Ascension
-- 🎮 Python Game
-- 🔧 Plataforma para Oficinas
-
-### ✅ Projetos desenvolvidos
-
-- 🌐 Blog Caputz — desenvolvimento concluído, aguardando publicação
-
-### 🎯 Objetivos
-
-- ✅ Construir um portfólio sólido
-- 🎯 Conseguir meu primeiro estágio
-- 🚀 Evoluir como Desenvolvedor Backend
-- 🧱 Criar aplicações completas, úteis e bem estruturadas
+Atualmente busco minha primeira oportunidade profissional em desenvolvimento de software, onde possa contribuir com projetos reais e continuar evoluindo em engenharia de software.
 
 ---
 
-# 🛠️ Tecnologias
+## 🚀 O que estou construindo
 
-<p align="center">
+### 🔧 Caputo System
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,js,ts,react,nextjs,html,css,postgres,supabase,git,github,mysql,vscode&theme=dark"/>
+Sistema **mobile-first** criado para apoiar a operação real de uma oficina de funilaria e pintura.
 
-</p>
+A aplicação reúne gestão de **clientes, veículos, reparos, fotos, peças e documentos**, além de um portal seguro para acompanhamento pelo cliente. O projeto também trabalha com fila offline e sincronização, controle de acesso, auditoria e armazenamento de mídia.
+
+**Stack e conceitos:** TypeScript • React • Cloudflare D1 • Cloudflare R2 • Drizzle ORM • Vite • autenticação • tokens seguros • persistência relacional • offline-first
+
+> Projeto privado em preparação para piloto operacional.
 
 ---
-
-# 📂 Projetos em Destaque
 
 ### 📚 Comics Continuum
 
-Plataforma para descobrir ordens de leitura de quadrinhos e acompanhar o progresso por edição, série, personagem, saga e universo.
+Plataforma para descobrir **ordens de leitura de quadrinhos** e acompanhar o progresso do leitor por séries e edições.
 
-O projeto está sendo desenvolvido com **Next.js**, **TypeScript**, **PostgreSQL** e **Supabase**, começando pela saga Ultimate da Marvel e por *Ultimate Spider-Man*.
+O projeto possui catálogo público, páginas de universos, séries e edições, autenticação com Google ou e-mail, perfil privado, sincronização de progresso e painel editorial administrativo.
 
-[Ver repositório →](https://github.com/Giovanni-Caputo/Comics-Continuum)
+**Stack e conceitos:** Next.js • TypeScript • React • PostgreSQL • Supabase • Row Level Security • OAuth • Vitest • Tailwind CSS
+
+🌐 [Acessar beta](https://comics-continuum.vercel.app)  
+📦 Repositório privado durante o desenvolvimento
 
 ---
 
 ### 🎮 Tower Ascension
 
-RPG desenvolvido em Java utilizando JavaFX como aplicação prática dos conceitos de Programação Orientada a Objetos.
+RPG 2D desenvolvido como projeto acadêmico na UNESP para aplicar conceitos de **Programação Orientada a Objetos e modelagem de software**.
+
+Possui combate por turnos, exploração, diferentes inimigos, inventário, progressão, salvamento e interface gráfica construída com JavaFX/FXML.
+
+**Stack e conceitos:** Java • JavaFX • FXML • Maven • MVC • POO • UML • persistência
 
 [Ver repositório →](https://github.com/Giovanni-Caputo/TowerAscension)
 
 ---
 
-### 📚 Developer Handbook
+### 🌐 Blog Caputz
 
-Meu repositório pessoal de estudos, contendo resumos, exemplos e documentações sobre as tecnologias que estou aprendendo e utilizando.
+Blog e espaço pessoal desenvolvido para publicar textos sobre tecnologia, jogos, música, quadrinhos e outros interesses, enquanto funciona também como laboratório para desenvolvimento web e identidade digital.
 
----
+**Tecnologias:** HTML • CSS • JavaScript
 
-### 🔧 Plataforma para Oficinas
-
-Projeto de uma plataforma voltada para oficinas, ainda em fase de definição e planejamento. A proposta e o nome definitivo serão estabelecidos conforme o desenvolvimento evoluir.
+> Projeto em evolução e preparação para publicação no domínio próprio.
 
 ---
 
-### 🐍 Projeto em Python
+### 🐍 Python Game
 
-Protótipo de jogo survival inspirado em *Vampire Survivors*, desenvolvido com Python e PGZero.
+Protótipo jogável de survival/arcade criado para praticar desenvolvimento de jogos em Python. Possui movimentação, projéteis, inimigos, colisões, sistema de vida, ondas, animações, efeitos sonoros, HUD, vitória e game over.
+
+**Tecnologias:** Python • PGZero • Pygame
 
 [Ver repositório →](https://github.com/Giovanni-Caputo/Python-Game)
 
 ---
 
-### 🌐 Blog Caputz
-
-Meu blog pessoal: um espaço para publicar reflexões, falar sobre cultura geek, música, automobilismo e registrar minha evolução na programação.
-
-O desenvolvimento está concluído, mas o blog ainda não foi publicado oficialmente.
-
----
-
-# 📈 GitHub
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-[Ver meus projetos e minha atividade no GitHub →](https://github.com/Giovanni-Caputo)
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,react,nextjs,html,css,postgres,supabase,mysql,git,github,vite,vscode&theme=dark" />
 
 </div>
 
----
+### Tenho trabalhado com
 
-# 📖 Roadmap
-
-- ✅ Git
-- ✅ GitHub
-- ✅ Java
-- ✅ JavaFX
-- ✅ Python
-- ✅ HTML e CSS
-- ✅ JavaScript
-- ✅ GitHub Pages
-- ✅ Supabase
-- ✅ Desenvolvimento do Blog Caputz
-- 🔄 Spring Boot
-- 🔄 TypeScript
-- 🔄 React e Next.js
-- 🔄 PostgreSQL
-- 🔄 APIs e integração com bancos de dados
-- 🔄 Desenvolvimento do Comics Continuum
-- 🔄 Arquitetura e Engenharia de Software
-- ⏳ Docker
-- ⏳ Testes automatizados
-- ⏳ Deploy e CI/CD
-- ⏳ AWS
-- ⏳ Primeiro estágio
+- **Linguagens:** Java, TypeScript, JavaScript, Python, C e C++
+- **Web:** React, Next.js, HTML, CSS e Tailwind CSS
+- **Dados:** PostgreSQL, Supabase, MySQL, Cloudflare D1 e Drizzle ORM
+- **Backend e integração:** APIs, autenticação, OAuth, autorização e persistência de dados
+- **Qualidade:** Git, GitHub, ESLint, TypeScript type checking, Vitest e testes automatizados
+- **Cloud e deploy:** Vercel, Cloudflare R2 e aplicações web publicadas
+- **Engenharia:** POO, UML, modelagem relacional, MVC, segurança e documentação técnica
 
 ---
 
-# 📫 Contato
+## 🎓 Formação e base acadêmica
 
-<p align="center">
+**Bacharelado em Ciência da Computação — UNESP**
 
-<a href="https://www.linkedin.com/in/caputo11/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Além dos projetos pessoais, mantenho estudos e implementações acadêmicas envolvendo **algoritmos, estruturas de dados, programação orientada a objetos, bancos de dados e engenharia de software**.
 
-<a href="mailto:givcaputo@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+[Computer Science Labs →](https://github.com/Giovanni-Caputo/Computer-Science-Labs)
 
 ---
+
+## 📈 Atualmente
+
+- 🔧 Preparando o **Caputo System** para um piloto em ambiente real
+- 📚 Evoluindo o **Comics Continuum** e sua arquitetura full stack
+- ☕ Aprofundando conhecimentos em **Java e Spring Boot**
+- 🧪 Evoluindo práticas de **testes, arquitetura e engenharia de software**
+- 🌐 Construindo meu portfólio e presença profissional
+- 🎯 Buscando minha **primeira oportunidade de estágio em desenvolvimento de software**
+
+---
+
+## 📫 Contato
 
 <div align="center">
 
-###
+<a href="https://www.linkedin.com/in/caputo11/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-> **"Acredito que aprender tecnologia significa construir projetos. Cada novo conhecimento adquirido se transforma em uma aplicação prática publicada neste GitHub."**
+<a href="mailto:givcaputo@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+
+<a href="https://github.com/Giovanni-Caputo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
