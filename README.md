@@ -64,11 +64,13 @@ Possui combate por turnos, exploração, diferentes inimigos, inventário, progr
 
 ### 🌐 Blog Caputz
 
-Blog e espaço pessoal desenvolvido para publicar textos sobre tecnologia, jogos, música, quadrinhos e outros interesses, enquanto funciona também como laboratório para desenvolvimento web e identidade digital.
+Blog pessoal **concluído e publicado**, criado do zero como meu espaço na internet para escrever sobre tecnologia, jogos, música, quadrinhos, programação e outros interesses.
 
-**Tecnologias:** HTML • CSS • JavaScript
+Além do conteúdo, o projeto funciona como uma aplicação prática de desenvolvimento web e identidade digital, com páginas próprias, temas claro e escuro, interações e elementos visuais personalizados.
 
-> Projeto em evolução e preparação para publicação no domínio próprio.
+**Tecnologias:** HTML • CSS • JavaScript • GitHub Pages
+
+🌐 [Acessar o Blog Caputz](https://giovanni-caputo.github.io/Blog-Caputz/index.html)
 
 ---
 
@@ -97,7 +99,7 @@ Protótipo jogável de survival/arcade criado para praticar desenvolvimento de j
 - **Dados:** PostgreSQL, Supabase, MySQL, Cloudflare D1 e Drizzle ORM
 - **Backend e integração:** APIs, autenticação, OAuth, autorização e persistência de dados
 - **Qualidade:** Git, GitHub, ESLint, TypeScript type checking, Vitest e testes automatizados
-- **Cloud e deploy:** Vercel, Cloudflare R2 e aplicações web publicadas
+- **Cloud e deploy:** Vercel, GitHub Pages, Cloudflare R2 e aplicações web publicadas
 - **Engenharia:** POO, UML, modelagem relacional, MVC, segurança e documentação técnica
 
 ---
@@ -118,7 +120,7 @@ Além dos projetos pessoais, mantenho estudos e implementações acadêmicas env
 - 📚 Evoluindo o **Comics Continuum** e sua arquitetura full stack
 - ☕ Aprofundando conhecimentos em **Java e Spring Boot**
 - 🧪 Evoluindo práticas de **testes, arquitetura e engenharia de software**
-- 🌐 Construindo meu portfólio e presença profissional
+- 🌐 Mantendo e produzindo conteúdo para o **Blog Caputz**
 - 🎯 Buscando minha **primeira oportunidade de estágio em desenvolvimento de software**
 
 ---
