@@ -25,6 +25,19 @@ Atualmente busco minha primeira oportunidade profissional em desenvolvimento de 
 
 ## 🚀 O que estou construindo
 
+### 🚘 Caputo Funilaria e Pintura — Site Institucional
+
+Site institucional **desenvolvido e lançado para uma empresa real**, a oficina Caputo Funilaria e Pintura, em Matão–SP. O projeto apresenta serviços, vistorias, seguradoras credenciadas, estrutura, história e canais de contato, com identidade visual própria e experiência responsiva para desktop e celular.
+
+Além da interface, trabalhei na publicação com domínio próprio, HTTPS, SEO local, sitemap, dados estruturados da empresa e integração com o Google Search Console.
+
+**Stack e conceitos:** TypeScript • React • Next.js • CSS responsivo • SEO técnico • dados estruturados • domínio e DNS • deploy em produção
+
+🌐 [Acessar o site oficial](https://caputofunilaria.com.br)  
+📦 Repositório privado
+
+---
+
 ### 🔧 Caputo System
 
 Sistema **mobile-first** criado para apoiar a operação real de uma oficina de funilaria e pintura.
@@ -116,6 +129,7 @@ Além dos projetos pessoais, mantenho estudos e implementações acadêmicas env
 
 ## 📈 Atualmente
 
+- 🌐 Mantendo e evoluindo o **site institucional da Caputo Funilaria e Pintura**
 - 🔧 Preparando o **Caputo System** para um piloto em ambiente real
 - 📚 Evoluindo o **Comics Continuum** e sua arquitetura full stack
 - ☕ Aprofundando conhecimentos em **Java e Spring Boot**
